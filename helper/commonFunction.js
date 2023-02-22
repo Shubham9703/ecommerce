@@ -7,7 +7,7 @@ module.exports = {
             service: "gmail",
             auth: {
                 user: "shubham.k@appventurez.com",
-                pass: "xjlkxqkidqdkkyep"
+                pass: ""
             }
         });
         const mailOptions = {
